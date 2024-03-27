@@ -1,3 +1,2 @@
-# laravel_login
-Create a login registration system using laravel framework.
-
+# login page
+A simple login page using html, css and javascript
